@@ -27,7 +27,7 @@
    );
    ```
 
-![alt text](picture/tbl1.PNG)
+![alt text](picture/1.PNG)
 
 2. **Tampilkan data karyawan yang gajinya lebih besar dari rata-rata gaji semua karyawan. Urutkan menurun berdasarkan besaran gaji.**
 
@@ -45,7 +45,7 @@
    ORDER BY gaji_pokok DESC;
    ```
 
-![alt text](picture/tbl2.PNG)
+![alt text](picture/2.PNG)
 
 3. **Tampilkan nik dan nama karyawan untuk semua karyawan yang bekerja di departemen yang sama dengan karyawan dengan nama yang mengandung huruf 'K'.**
 
@@ -60,7 +60,7 @@
    );
    ```
 
-![alt text](picture/tbl3.PNG)
+![alt text](picture/3.PNG)
 
 4. **Tampilkan data karyawan yang bekerja pada departemen yang ada di kantor pusat.**
 
@@ -78,7 +78,7 @@
 
    ```
 
-![alt text](picture/tbl4.PNG)
+![alt text](picture/4.PNG)
 
 5. **Tampilkan nik dan nama karyawan untuk semua karyawan yang bekerja di departemen yang sama dengan karyawan dengan nama yang mengandung huruf 'K' dan yang gajinya lebih besar dari rata-rata gaji semua karyawan.**
 
@@ -96,11 +96,14 @@
    );
    ```
 
-![alt text](picture/tbl5.PNG)
+![alt text](picture/5.PNG)
 
 ### script tabel
+
+```
 ![alt text](picture/tbl1.PNG)
 ![alt text](picture/tbl2.PNG)
 ![alt text](picture/tbl3.PNG)
+```
 
 ## <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
