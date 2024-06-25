@@ -100,10 +100,10 @@
 
 ### script tabel
 
-```
-![alt text](picture/tbl1.PNG)
-![alt text](picture/tbl2.PNG)
-![alt text](picture/tbl3.PNG)
-```
+
+### 1. ![alt text](picture/tbl1.PNG)
+### 2. ![alt text](picture/tbl2.PNG)
+### 3. ![alt text](picture/tbl3.PNG)
+
 
 ## <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
